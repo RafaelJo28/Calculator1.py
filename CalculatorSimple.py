@@ -11,6 +11,9 @@ if calculator == "-":
 if calculator == "x":
     print(a * b)
     
+if calculator == "^":
+    print(a ** b)
+    
 if calculator == "/":
     print(a / b)
     
